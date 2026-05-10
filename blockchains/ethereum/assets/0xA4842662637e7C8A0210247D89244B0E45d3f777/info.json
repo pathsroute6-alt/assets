@@ -1,11 +1,29 @@
 {
   "name": "x-DOL-x",
   "website": "https://xdol.com.br",
-  "description": "XDOL Digital Dollar on Ethereum focused on transparent liquidity and DeFi integration.",
+  "description": "XDOL Digital Dollar is an ERC20 token on Ethereum focused on transparent liquidity and DeFi integration.",
   "explorer": "https://etherscan.io/token/0xA4842662637e7C8A0210247D89244B0E45d3f777",
   "type": "ERC20",
   "symbol": "XDOL",
   "decimals": 6,
   "status": "active",
-  "id": "0xA4842662637e7C8A0210247D89244B0E45d3f777"
+  "id": "0xA4842662637e7C8A0210247D89244B0E45d3f777",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://xdol.com.br"
+    },
+    {
+      "name": "twitter",
+      "url": "https://x.com/XdolOficial"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/xdoloficial"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://www.coingecko.com/en/coins/xdol"
+    }
+  ]
 }
