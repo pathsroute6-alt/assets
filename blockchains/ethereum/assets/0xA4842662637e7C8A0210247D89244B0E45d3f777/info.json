@@ -10,11 +10,7 @@
   "id": "0xA4842662637e7C8A0210247D89244B0E45d3f777",
   "links": [
     {
-      "name": "website",
-      "url": "https://xdol.com.br"
-    },
-    {
-      "name": "twitter",
+      "name": "x",
       "url": "https://x.com/XdolOficial"
     },
     {
@@ -22,8 +18,9 @@
       "url": "https://t.me/xdoloficial"
     },
     {
-      "name": "coingecko",
-      "url": "https://www.coingecko.com/en/coins/xdol"
+      "name": "github",
+      "url": "https://github.com/xdolofficial/xdol-assets"
     }
-  ]
+  ],
+  "tags": ["defi"]
 }
